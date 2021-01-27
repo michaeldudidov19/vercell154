@@ -1,0 +1,4 @@
+baseURL = "https://aboutpoemsklooph.vercel.app"
+languageCode = "en-us"
+title = "About Poems In Life"
+theme = "tale-hugo-master"
